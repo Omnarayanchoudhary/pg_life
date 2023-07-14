@@ -7,8 +7,6 @@ Internshala Full Stack Web Development Internship Training. I got the guidance, 
 I made this web application with my own undertsnading and knowledge. It is customized according to
 what I thought would be better functionalities in this app, from the user perspective.
 
-This web app is hosted online at:- http://debanjansarkar.epizy.com/PGLIFE/index.php
-
 Entire web-app is fully responsive and is operational from any device.
 
 Tech Stack:- HTML, CSS, Bootstrap 5, Javascript, AJAX, PHP, MySQL.
@@ -68,6 +66,6 @@ This web app has the following functionalities:-
 	b. Displays copywright information.
 
 
-8. Entire web app can be surfed without logging in for user's ease and attraction for new users. Only 	certain features such as dashboard, and marking interested are available upon log in.
+8. Entire web app can be surfed without logging in for user's ease and attraction for new users. Only  certain features such as dashboard, and marking interested are available upon log in.
 
-9. Through the entire web app, each and every excetion is handled well using custom codes and UI,	such that they are easily managed, and user can get to know the fault.
+9. Through the entire web app, each and every excetion is handled well using custom codes and UI, such that they are easily managed, and user can get to know the fault.
